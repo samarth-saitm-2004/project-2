@@ -1,0 +1,42 @@
+body
+{
+    background-color: wheat;
+}
+h1
+{
+    
+    text-align: center;
+    font-weight: lighter;
+
+}
+
+.video
+{
+   
+   text-align: center;
+   margin-top: -15px;
+   box-sizing: border-box;    
+} 
+
+h3
+{
+    font-size: 30px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+h4
+{
+    font-weight: lighter;
+    font-size: 20px;
+}   
+.cent
+{
+    text-align: center;
+    margin-top: -36px;   
+}
+.cent1
+{
+    text-align: center;
+    margin-top: -36px;   
+}
